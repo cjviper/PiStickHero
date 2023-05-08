@@ -8,3 +8,5 @@ The Pi's GPIO is then used to control a circuit which switches on a solenoid for
 See the video at https://www.youtube.com/watch?v=s_JnU4rzq9o.
 
 ![Raspberry Pi Playing Stick Hero](photos/PiStickHero.jpg "Raspberry Pi Playing Stick Hero")
+
+![Diagram](photos/Raspberry%20Pi%20Stick%20Hero.png "Raspberry Pi Playing Stick Hero")
